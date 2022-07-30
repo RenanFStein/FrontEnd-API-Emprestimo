@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+    color: black;
+    font-size:larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:hover{
+    color: orange;    
+    background-color: rgba(0, 93, 199, 0.089);
+    border-radius: 10px;
+    
+}
+
